@@ -1,8 +1,8 @@
 # Site settings
 title: "Rod's Blog
 author:
-  name: Rod Vial
-  email: rod@rodvial.dev
+name: Rod Vial
+email: rod@rodvial.dev
 description: "Powered by Jekyll."
 
 # Build settings
