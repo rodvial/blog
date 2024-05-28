@@ -1,3 +1,3 @@
-# Welcome to My Blog!
+# Welcome to Rod's Blog!
 
 ## Latest Articles
