@@ -44,5 +44,4 @@ I'm an ITIL Certified, System Programmer Analyst, with over 13 years of experien
 
 📫 Connect with me:
 
-[Website](https://rodvial.dev)
-[LinkedIn](https://linkedin.com/in/rodvial)
+[Website](https://rodvial.dev) | [LinkedIn](https://linkedin.com/in/rodvial)
