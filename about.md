@@ -32,8 +32,8 @@ I'm an ITIL Certified, System Programmer Analyst, with over 13 years of experien
 
     CLOUD PLATFORMS ARCHITECTURE: IaaS/PaaS/SaaS/IaaC, AWS/Azure/Google/Oracle/IBM, SAP, GIT/GitHub, SharePoint, Atlassian, Salesforce, Office365, Google Workspace, OKTA/SSO
     PROGRAMMING LANGUAGES/CODING: SQL, .NET (ASP/VB/C#), C/C++, JAVA, PHP, HTML5, CSS, JSON/XML, JavaScript, Perl, Python, Bash, PowerShell
-    Managed Hosting: Windows/Linux Servers, VMware, Hyper-V
-    Programming Languages: SQL, .NET, C/C++, Java, PHP, HTML5, CSS, JavaScript, Perl, Python
+    MANAGED HOSTING ARCHITECTURE: Windows/Linux Servers, Active Directory, GPO/WSUS, PDQ SmartDeploy, Inventory & Deployment Management,VMs/VDIs, Dockers, VMware: vCenters/ESXi/vSphere/Horizon, Hyper-V, Oracle VirtualBox, Jumpboxes, Ansible, OpenSSH, RDP/Citrix
+    FULL-STACK DEVELOPER, WEBSERVERS, DATABASES: WebLogic, GlassFish, Apache, NGINX, IIS, Tomcat, NodeJS, MySQL, Postgresql, MSSQL, Oracle DB
     Cybersecurity: Real-Time Monitoring, Data Security, Compliance, Threat Management
 
 🏆 My Awards:
