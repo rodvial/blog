@@ -232,3 +232,117 @@ Security domains are a way of categorizing and organizing different aspects of s
 7. Risk Management: Risk management involves identifying, assessing, and prioritizing security risks to the organization and implementing controls to mitigate or manage these risks effectively. This domain includes activities such as risk assessments, vulnerability management, security monitoring, and incident response planning.
 
 By categorizing security concerns into these domains, organizations can develop a holistic approach to security that addresses various threats and vulnerabilities across different areas of their operations.
+
+## Determine the type of attack
+Attack types:
+Password attack - A password attack is an attempt to access password-secured devices, systems, networks, or data. Some forms of password attacks that you’ll learn about later in the certificate program are:  
+
+Brute force
+
+Rainbow table
+
+Password attacks fall under the communication and network security domain. 
+
+Social engineering attack - Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. Some forms of social engineering attacks that you will continue to learn about throughout the program are:
+
+- Phishing
+
+- Smishing
+
+- Vishing
+
+- Spear phishing
+
+- Whaling
+
+- Social media phishing
+
+- Business Email Compromise (BEC)
+
+- Watering hole attack
+
+- USB (Universal Serial Bus) baiting
+
+- Physical social engineering 
+
+Social engineering attacks are related to the security and risk management domain.
+
+Physical attack: A physical attack is a security incident that affects not only digital but also physical environments where the incident is deployed. Some forms of physical attacks are:
+
+- Malicious USB cable
+
+- Malicious flash drive
+
+- Card cloning and skimming
+
+Physical attacks fall under the asset security domain.
+
+Adversarial artificial intelligence
+Adversarial artificial intelligence is a technique that manipulates artificial intelligence and machine learning technology to conduct attacks more efficiently. Adversarial artificial intelligence falls under both the communication and network security and the identity and access management domains.
+
+Supply-chain attack
+A supply-chain attack targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed. Because every item sold undergoes a process that involves third parties, this means that the security breach can occur at any point in the supply chain. These attacks are costly because they can affect multiple organizations and the individuals who work for them. Supply-chain attacks can fall under several domains, including but not limited to the security and risk management, security architecture and engineering, and security operations domains.
+
+Cryptographic attack
+A cryptographic attack affects secure forms of communication between a sender and intended recipient. Some forms of cryptographic attacks are: 
+
+- Birthday
+
+- Collision
+
+- Downgrade
+
+Cryptographic attacks fall under the communication and network security domain. 
+
+## Understand attackers
+Threat actor types
+Advanced persistent threats
+Advanced persistent threats (APTs) have significant expertise accessing an organization’s network without authorization. APTs tend to research their targets (e.g., large corporations or government entities)  in advance and can remain undetected for an extended period of time. Their intentions and motivations can include:
+
+- Damaging critical infrastructure, such as the power grid and natural resources
+
+- Gaining access to intellectual property, such as trade secrets or patents
+
+Insider threats: Insider threats abuse their authorized access to obtain data that may harm an organization. Their intentions and motivations can include: 
+
+- Sabotage
+
+- Corruption
+
+- Espionage
+
+- Unauthorized data access or leaks 
+
+Hacktivists: Hacktivists are threat actors that are driven by a political agenda. They abuse digital technology to accomplish their goals, which may include: 
+
+- Demonstrations
+
+- Propaganda
+
+- Social change campaigns
+
+- Fame
+
+Hacker types: A hacker is any person who uses computers to gain access to computer systems, networks, or data. They can be beginner or advanced technology professionals who use their skills for a variety of reasons. There are three main categories of hackers:
+
+- Authorized hackers are also called ethical hackers. They follow a code of ethics and adhere to the law to conduct organizational risk evaluations. They are motivated to safeguard people and organizations from malicious threat actors.
+
+- Semi-authorized hackers are considered researchers. They search for vulnerabilities but don’t take advantage of the vulnerabilities they find.
+
+- Unauthorized hackers are also called unethical hackers. They are malicious threat actors who do not follow or respect the law. Their goal is to collect and sell confidential data for financial gain. 
+
+Note: There are multiple hacker types that fall into one or more of these three categories.
+
+New and unskilled threat actors have various goals, including: 
+
+- To learn and enhance their hacking skills
+
+- To seek revenge
+
+- To exploit security weaknesses by using existing malware, programming scripts, and other tactics 
+
+Other types of hackers are not motivated by any particular agenda other than completing the job they were contracted to do. These types of hackers can be considered unethical or ethical hackers. They have been known to work on both illegal and legal tasks for pay.
+
+There are also hackers who consider themselves vigilantes. Their main goal is to protect the world from unethical hackers.
+
+## Security frameworks and controls
