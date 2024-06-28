@@ -163,8 +163,6 @@ GLOSSARY
 
 **Vulnerability:** A weakness that can be exploited by a threat
 
-/\*! elementor - v3.22.0 - 26-06-2024 \*/ .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}
-
 Phishing
 --------
 
@@ -296,8 +294,6 @@ USB baiting
 
 An attack in which a threat actor strategically leaves a malware USB stick for an employee to find and unknowingly infect a network
 
-/\*! elementor - v3.22.0 - 26-06-2024 \*/ .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title\[class\*=elementor-size-\]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
-
 ###### Security Domains
 
 Security domains are a way of categorizing and organizing different aspects of security within a system or organization. These domains help in understanding and managing security risks comprehensively. While the exact categorization may vary depending on the framework or methodology being used, some common security domains include:
@@ -347,8 +343,6 @@ Security operations involve the day-to-day tasks and activities related to monit
 Software development security focuses on integrating security into the software development lifecycle (SDLC) and ensuring that software is developed securely. It includes topics such as secure coding practices, security controls in development environments, and security testing of software.
 
 ###### Determine the type of attack
-
-/\*! elementor - v3.22.0 - 26-06-2024 \*/ .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img\[src$=".svg"\]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block} ![](https://arvital.tech/wp-content/uploads/2024/05/fJ0g68UxToW3OSJob2ecKg_30973561259c420c8fe8ae7697cf10f1_CS_R-021_Security-domains.png)
 
 Attack types
 ------------
