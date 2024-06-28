@@ -143,6 +143,26 @@ pre > code {
 }
 
 /**
+  * Terminal
+*/
+.terminal {
+  font-size: 15px;
+  color: white;
+  background-color: black;
+  font-family: monospace;
+  overflow: scroll;
+  padding: 10px;
+  border-radius: 10px;
+  -ms-overflow-style: none;  /* Internet Explorer 10+, make scrollbars invisible */
+  scrollbar-width: none;  /* Firefox, make scrollbars invisible */
+}
+
+.terminal::-webkit-scrollbar { /* WebKit, make scrollbars invisible */
+  width: 0;
+  height: 0;
+}
+
+/**
  * Wrapper
  */
 .wrapper {
