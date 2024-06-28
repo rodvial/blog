@@ -1,18 +1,36 @@
 ---
 layout: page
-title: About
+title: About Rod
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+👋 Hi, I'm Rod!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+🚀 IT Infrastructure & Operations Systems Security Administrator | Developer | Analyst |Consultant
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+💼 With over 13 years of experience across North America, I specialize in:
 
+    IT Infrastructure & Operations
+    Data Center Management
+    Cybersecurity
+    Project Management
+    ITSM/BI
 
-[jekyll-organization]: https://github.com/jekyll
+🔧 Technical Skills:
+
+    Cloud Platforms: AWS, Azure, Oracle, IBM
+    Managed Hosting: Windows/Linux Servers, VMware, Hyper-V
+    Programming Languages: SQL, .NET, C/C++, Java, PHP, HTML5, CSS, JavaScript, Perl, Python
+    Cybersecurity: Real-Time Monitoring, Data Security, Compliance, Threat Management
+
+🏆 Awards:
+
+    Customer Centricity Award (Experian)
+    Promotion to Service Delivery Director / Senior Principal TAM (Oracle)
+
+🌱 Outside of work, I volunteer in IT support and web development, and enjoy DIY electronics projects.
+
+📫 Connect with me:
+
+    Website
+    LinkedIn
