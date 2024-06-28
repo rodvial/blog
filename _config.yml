@@ -1,8 +1,8 @@
 # Site settings
 title: "Rod's Blog"
-author: Rod
-name: Rod Vial
-email: rod@rodvial.dev
+author:
+  name: Rod Vial
+  email: "rod@rodvial.dev"
 description: "Rod's Blog."
 
 # Build settings
