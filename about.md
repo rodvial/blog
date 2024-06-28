@@ -6,7 +6,15 @@ permalink: /about/
 
 👋 Hi, I'm Rod!
 
-🚀 IT Infrastructure & Operations Systems Security Administrator | Developer | Analyst |Consultant
+🚀 My roles are:
+
+    IT Infrastructure & Operations Systems Security Administrator
+    Data Center ECC/SOC Manager
+    Technical Account Manager (TAM/SDM)
+    ITSM/BI Specialist
+    Developer
+    Analyst
+    Support & Consultant
 
 💼 With over 13 years of experience across North America, I specialize in:
 
