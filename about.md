@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Rod
+title: About
 permalink: /about/
 ---
 
@@ -32,5 +32,5 @@ permalink: /about/
 
 📫 Connect with me:
 
-    Website
-    LinkedIn
+    Website - "https://rodvial.dev"
+    LinkedIn - "https://linkedin.com/in/rodvial"
