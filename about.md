@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-👋 Hi, I'm Rod!<img src="https://rodvial.dev/blog/wp-content/uploads/2024/06/octocat-1719566923353.png" width="300" height="300"/>
+<img src="https://rodvial.dev/blog/wp-content/uploads/2024/06/octocat-1719566923353.png" width="300" height="300"/>
+
+👋 Hi, I'm Rod!
 
 I'm an ITIL Certified, System Programmer Analyst, with over 13 years of experience in the Information Technology field. Working in different roles for top 500 organizations.
 
