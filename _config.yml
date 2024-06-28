@@ -1,8 +1,8 @@
 # Site settings
-title: "Rod's Blog"
-author:
-  name: Rod
-  email: "rod@rodvial.dev"
+title: Rod's Blog
+baseurl: "/blog"
+url: "https://rodvial.github.io/"
+github_username: rodvial
 description: "© 2024 Rod's Blog. All Rights Reserved"
 
 # Build settings
@@ -18,6 +18,7 @@ remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Theme-specific settings
 
@@ -39,7 +40,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: dark
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
