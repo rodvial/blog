@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
-<img src="https://rodvial.dev/blog/wp-content/uploads/2024/06/octocat-1719566923353.png" width="100" height="100"/>
+<img src="https://rodvial.dev/blog/wp-content/uploads/2024/06/octocat-1719566923353.png" width="200" height="200"/>
 
 👋 Hi, I'm Rod!
 
