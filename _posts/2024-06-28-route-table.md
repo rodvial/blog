@@ -5,3 +5,5 @@ Kernel IP routing table
 Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 0.0.0.0         192.168.0.254   0.0.0.0         UG    100    0        0 eno1
 192.168.0.0     0.0.0.0         255.255.255.0   U     100    0        0 eno1
+
+2024-05-31-your-new-blog-post.md
