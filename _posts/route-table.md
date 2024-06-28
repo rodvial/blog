@@ -1,8 +1,8 @@
 ---
 layout: post
 title: My First Jekyll Post
-tags: first markdown example
-categories: demo
+tags: route, table
+categories: Networking
 ---
 
 The routing table
