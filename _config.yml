@@ -3,7 +3,7 @@ title: "Rod's Blog"
 author: Rod
 name: Rod Vial
 email: rod@rodvial.dev
-description: "Powered by Jekyll."
+description: "Rod's Blog."
 
 # Build settings
 remote_theme: jekyll/minima
