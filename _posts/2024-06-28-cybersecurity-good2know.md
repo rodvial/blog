@@ -213,3 +213,22 @@ Reasons why social engineering attacks are effective include:
 - Trust: Threat actors establish an emotional relationship with users that can be exploited over time. They use this relationship to develop trust and gain personal information.
 
 - Urgency: A threat actor persuades others to respond quickly and without questioning.
+
+## Security Domains
+Security domains are a way of categorizing and organizing different aspects of security within a system or organization. These domains help in understanding and managing security risks comprehensively. While the exact categorization may vary depending on the framework or methodology being used, some common security domains include:
+
+1. Physical Security: This domain focuses on protecting physical assets, such as buildings, hardware, and other tangible items, from unauthorized access, theft, damage, or destruction. Measures may include locks, fences, security guards, surveillance cameras, and access control systems.
+
+2. Network Security: Network security involves safeguarding the integrity, confidentiality, and availability of data and resources transmitted over networks. This domain includes measures such as firewalls, intrusion detection and prevention systems (IDPS), encryption, virtual private networks (VPNs), and secure configurations of network devices.
+
+3. Application Security: Application security focuses on securing software applications and the data they process. This includes identifying and mitigating vulnerabilities in code, implementing secure coding practices, conducting regular security testing (such as penetration testing and code reviews), and ensuring secure authentication and authorization mechanisms.
+
+4. Information Security: Information security encompasses the protection of sensitive information from unauthorized access, disclosure, alteration, or destruction. This domain involves implementing policies, procedures, and technologies to classify, handle, and safeguard data appropriately. Measures may include access controls, encryption, data loss prevention (DLP), and incident response plans.
+
+5. Operational Security (OPSEC): Operational security involves protecting critical information related to an organization’s operations, plans, and capabilities. This domain focuses on minimizing the risk of information disclosure that could be exploited by adversaries to compromise security. Measures may include limiting access to sensitive information on a need-to-know basis, controlling communication channels, and maintaining situational awareness.
+
+6. Personnel Security: Personnel security addresses the human element of security, ensuring that individuals with access to sensitive information or critical assets are trustworthy and adequately trained. This domain involves conducting background checks, providing security awareness training, enforcing security policies and procedures, and managing access privileges based on roles and responsibilities.
+
+7. Risk Management: Risk management involves identifying, assessing, and prioritizing security risks to the organization and implementing controls to mitigate or manage these risks effectively. This domain includes activities such as risk assessments, vulnerability management, security monitoring, and incident response planning.
+
+By categorizing security concerns into these domains, organizations can develop a holistic approach to security that addresses various threats and vulnerabilities across different areas of their operations.
