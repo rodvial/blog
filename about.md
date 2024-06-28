@@ -32,5 +32,5 @@ permalink: /about/
 
 📫 Connect with me:
 
-    Website - "https://rodvial.dev"
-    LinkedIn - "https://linkedin.com/in/rodvial"
+    [Website](https://rodvial.dev)
+    [LinkedIn](https://linkedin.com/in/rodvial)
