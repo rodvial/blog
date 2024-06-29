@@ -1463,9 +1463,6 @@ Factors that determine the types of audits an organization implements include:
 *   A business’s geographical location
     
 *   A business decision to adhere to a specific regulatory compliance
-    
-
-To review common compliance regulations that different organizations need to adhere to, refer to [the reading about controls, frameworks, and compliance](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/xu4pr/controls-frameworks-and-compliance).
 
 The role of frameworks and controls in audits
 ---------------------------------------------
