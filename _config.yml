@@ -1,7 +1,7 @@
 # Site settings
 title: Rod's Blog
-baseurl: "/blog"
-url: "https://rodvial.github.io/"
+#baseurl: "/blog"
+#url: "https://rodvial.github.io/"
 github_username: rodvial
 description: "© 2024 Rod's Blog. All Rights Reserved"
 
