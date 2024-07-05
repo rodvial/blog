@@ -1,5 +1,6 @@
 ---
-layout: home 
+layout: home
+permalink: /blog/
 ---
 
 <h1>Latest Posts</h1>
