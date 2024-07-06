@@ -13,6 +13,6 @@ Wazuh and AWS – Installations Amazon Machine Images (AMI)
 
     Post category:Platforms / Technology
 
-https://documentation.wazuh.com/current/deployment-options/amazon-machine-images/amazon-machine-images.html
+<a href="https://documentation.wazuh.com/current/deployment-options/amazon-machine-images/amazon-machine-images.html">https://documentation.wazuh.com/current/deployment-options/amazon-machine-images/amazon-machine-images.html</a>
 
-https://aws.amazon.com/marketplace/pp/prodview-eju4flv5eqmgq?ref=hmpg_recommendations_widget
+<a href="https://aws.amazon.com/marketplace/pp/prodview-eju4flv5eqmgq?ref=hmpg_recommendations_widget">https://aws.amazon.com/marketplace/pp/prodview-eju4flv5eqmgq?ref=hmpg_recommendations_widget</a>
