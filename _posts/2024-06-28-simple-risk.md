@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "SIMPLE RISK"
+date:   2024-06-28 12:11:42 -0700
+categories: Security
+---
 SimpleRisk
 
     Post category:Security / Technology
