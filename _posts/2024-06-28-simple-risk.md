@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "SIMPLE RISK"
+title:  "SimpleRisk"
 date:   2024-06-28 12:11:42 -0700
 categories: Security
 ---
-SimpleRisk
-
     Post category:Security / Technology
+
+<a href="https://www.simplerisk.com">https://www.simplerisk.com</a>
 
 SimpleRisk is a comprehensive GRC platform that can be used for all of your Governance, Risk Management and Compliance needs. It boasts functionality that is comprehensive enough to be utilized by some of the largest organizations on the planet while presenting a user interface that is so simple and intuitive it can be used by the least technical people in your organization.
 Option 1: SimpleRisk Scripted Installation
