@@ -30,7 +30,7 @@ Anything or Everything You Need to Embed Compliant Security Throughout Your Orga
 
 This is true – Ntirety security compliance is one of the best I’ve seen – so far so good, but hold on… we still not sure? Ntirety are saying….
 
-<img src="https://rodvial.github.com/blog/uploads/2023/07/ntirety.png">
+<img src="https://rodvial.github.io/blog/uploads/2023/07/ntirety.png">
 
 We have seen numerous places where we have compliant Security for example Hewlett Packard Enterprise – securing data, also DRATA automating and accelerating compliance ?
 
