@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://rodvial.dev/blog/wp-content/uploads/2024/06/octocat-1719566923353.png" width="300" height="300"/>
+<img src="uploads/2024/06/octocat-1719566923353.png" width="300" height="300"/>
 
 👋 Hi, I'm Rod!
 
