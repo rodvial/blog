@@ -8,7 +8,7 @@ permalink: /about/
 
 👋 Hi, I'm Rod!
 
-I'm an ITIL Certified, System Programmer Analyst, with over 13 years of experience in the Information Technology field. Working in different roles for top 500 organizations.
+I am an ITIL Certified Systems Analyst with over 13 years of extensive experience in the Information Technology field. My expertise spans across designing, implementing, and optimizing IT systems, business processes, and service management frameworks. I have successfully contributed to multiple high-impact projects for top 500 organizations, ensuring alignment of IT solutions with business objectives. My background includes roles in systems integration, requirements analysis, incident/problem management, and process improvements, leveraging ITIL best practices to enhance operational efficiency and service delivery. I excel at collaborating with cross-functional teams and stakeholders to deliver scalable, robust solutions tailored to organizational needs.
 
 🚀 Some of My roles are:
 
