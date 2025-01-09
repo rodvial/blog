@@ -7,8 +7,8 @@ description: "© 2025 Rod's Blog. All Rights Reserved"
 
 # Build settings
 
-remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: jekyll/minima
+# remote_theme: pages-themes/slate@v0.2.0
+remote_theme: jekyll/minima
 
 
 # Build settings
@@ -30,10 +30,10 @@ header_pages:
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
-# minima:
+minima:
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
@@ -42,7 +42,7 @@ header_pages:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
- # skin: classic
+ skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
