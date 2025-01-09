@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: about/
 ---
 
 <img src="_site/assets/ezgif-1-105bf6edd8.png" width="300" height="300"/>
