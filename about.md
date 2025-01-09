@@ -108,8 +108,6 @@ Outside of work, I enjoy photography, coding, and gaming. I also dedicate time t
     Customer Centricity Award (Experian)
     Promotion to Service Delivery Director / Senior Principal TAM (Oracle)
 
-🌱 Outside of work, I volunteer in IT support and web development, and enjoy DIY electronics projects.
-
 📫 Connect with me:
 
 [Website](https://rodvial.github.io) | [LinkedIn](https://linkedin.com/in/rodvial)
