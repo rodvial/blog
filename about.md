@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="uploads/2024/rodoctocat.png" width="300" height="300"/>
+<img src="_site/assets/rodoctocat.png" width="300" height="300"/>
 
 👋 Hi, I'm Rod!
 
