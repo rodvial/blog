@@ -25,75 +25,74 @@ Outside of work, I enjoy photography, coding, and gaming. I also dedicate time t
 🚀 Some of My roles are in (reverse chronological order) and 💼 specialties:
 
     Systems Security Administrator - SPRING:
-    Endpoint security and threat mitigation
-    Network and firewall security management
-    Active Directory and Group Policy administration
-    Patching, upgrades management using WSUS, SCCM, intune, PDQ: Software Deployment & Inventory Management
-    Monitoring and maintaining compliance standards
-    Incident and problem resolution for security threats
-    </ul>
+    •	Endpoint security and threat mitigation
+    •	Network and firewall security management
+    •	Active Directory and Group Policy administration
+    •	Patching, upgrades management using WSUS, SCCM, intune, PDQ: Software Deployment & Inventory Management
+    •	Monitoring and maintaining compliance standards
+    •	Incident and problem resolution for security threats
     
     Technical Account Manager - NTIRETY:
-    Strategic account management and client relationship building
-    IT service management and SLA performance optimization
-    Technical consulting for cloud and on-premises environments
-    Conducting business analysis to align IT solutions with client objectives
-    Ensuring customer satisfaction and operational excellence
+    •	Strategic account management and client relationship building
+    •	IT service management and SLA performance optimization
+    •	Technical consulting for cloud and on-premises environments
+    •	Conducting business analysis to align IT solutions with client objectives
+    •	Ensuring customer satisfaction and operational excellence
     
     IT Technical Support Specialist - BAYER:
-    Troubleshooting hardware, software, and networking issues
-    Providing personalized IT support and mentoring
-    Configuring and maintaining IT systems for end-users
-    Facilitating digital literacy workshops and IT skills training
+    •	Troubleshooting hardware, software, and networking issues
+    •	Providing personalized IT support and mentoring
+    •	Configuring and maintaining IT systems for end-users
+    •	Facilitating digital literacy workshops and IT skills training
     
     Service Delivery Director / Senior Principal Technical Account Manager - ORACLE:
-    Overseeing IT service delivery and large-scale projects
-    Driving service optimization and adherence to ITIL best practices
-    Managing enterprise-level upgrades, migrations, and transformations
-    Enhancing customer experience through proactive service improvements
-    Leading cross-functional teams and managing global stakeholders
+    •	Overseeing IT service delivery and large-scale projects
+    •	Driving service optimization and adherence to ITIL best practices
+    •	Managing enterprise-level upgrades, migrations, and transformations
+    •	Enhancing customer experience through proactive service improvements
+    •	Leading cross-functional teams and managing global stakeholders
     
     Service Delivery Manager - ORACLE:
-    Coordinating end-to-end IT service delivery processes
-    Performance monitoring and operational efficiency enhancements
-    Building and maintaining strong client relationships
-    Ensuring the alignment of IT services with business needs
+    •	Coordinating end-to-end IT service delivery processes
+    •	Performance monitoring and operational efficiency enhancements
+    •	Building and maintaining strong client relationships
+    •	Ensuring the alignment of IT services with business needs
     
     Senior IT Analyst (Developer) - EXPERIAN:
-    Designing and implementing web and software application platforms
-    Performing systems integration and process automation
-    Creating business intelligence reports and dashboards
-    Analyzing and refining system requirements for development projects
-    Content Management, Configuration Management, and Document Standards:
-    Developing and maintaining documentation frameworks for systems and software projects.
-    Implementing version control and configuration management practices to ensure compliance and traceability.
-    Creating structured, scalable content repositories to support efficient data retrieval and knowledge management.
+    •	Designing and implementing web and software application platforms
+    •	Performing systems integration and process automation
+    •	Creating business intelligence reports and dashboards
+    •	Analyzing and refining system requirements for development projects
+    •	Content Management, Configuration Management, and Document Standards:
+    •	Developing and maintaining documentation frameworks for systems and software projects.
+    •	Implementing version control and configuration management practices to ensure compliance and traceability.
+    •	Creating structured, scalable content repositories to support efficient data retrieval and knowledge management.
     
     Enterprise Command Centre Manager (Data Center ECC/SOC Operations Management) - AMEX:
-    Overseeing data center operations and ensuring uptime
-    Managing security operations center (SOC) activities
-    Incident and problem management for critical systems
-    Leading disaster recovery and business continuity planning
+    •	Overseeing data center operations and ensuring uptime
+    •	Managing security operations center (SOC) activities
+    •	Incident and problem management for critical systems
+    •	Leading disaster recovery and business continuity planning
     
     ROLES BASED ON PROJECTS:
     
     Developer:
-    Writing, testing, and deploying clean, efficient code
-    Collaborating with stakeholders to deliver software solutions
-    Supporting application lifecycle management (development to deployment)
-    Optimizing system performance and application scalability
+    •	Writing, testing, and deploying clean, efficient code
+    •	Collaborating with stakeholders to deliver software solutions
+    •	Supporting application lifecycle management (development to deployment)
+    •	Optimizing system performance and application scalability
     
     IT Support & Consultant:
-    Advising on IT infrastructure and solutions tailored to business goals
-    Supporting clients across diverse sectors, including government and enterprises
-    Providing technical guidance for cloud, hybrid, and on-premises systems
-    Conducting IT environment assessments and recommendations
+    •	Advising on IT infrastructure and solutions tailored to business goals
+    •	Supporting clients across diverse sectors, including government and enterprises
+    •	Providing technical guidance for cloud, hybrid, and on-premises systems
+    •	Conducting IT environment assessments and recommendations
     
     IT Analyst:
-    Gathering and documenting business and technical requirements 
-    Evaluating IT processes to identify optimization opportunities
-    Analyzing data to support decision-making and improve workflows
-    Collaborating with stakeholders to deliver targeted IT solutions   
+    •	Gathering and documenting business and technical requirements 
+    •	Evaluating IT processes to identify optimization opportunities
+    •	Analyzing data to support decision-making and improve workflows
+    •	Collaborating with stakeholders to deliver targeted IT solutions   
 
 🔧 Some of my Technical Skills:
 
