@@ -14,17 +14,18 @@ I have successfully contributed to multiple high-impact projects for top 500 org
 
 As a Client-Centricity Award Winner, I am recognized for my proactive expertise in availability, scalability, and project management. My collaborative approach enables me to lead cross-functional teams and stakeholders effectively, ensuring optimized system performance and uptime. My bilingual proficiency (English and Spanish), strong critical thinking, attention to detail, and commitment to client satisfaction and operational excellence further define my professional profile.
 
-💒 Community Involvement
+💒 Community Involvement:
+
 I am deeply committed to giving back to the community through various initiatives. I provide IT support, technical guidance, and mentorship to individuals looking to enhance their digital literacy and career readiness. My involvement includes facilitating technology workshops, offering personalized tutoring, and assisting with technical setups to help individuals improve their IT skills and increase job opportunities. By leveraging my expertise, I strive to empower others and make technology accessible to everyone, fostering growth and inclusion in my community.
 
-☕ Hobbies and Interests
+☕ Hobbies and Interests:
+
 Outside of work, I enjoy photography, coding, and gaming. I also dedicate time to DIY workshops in electronics, working with Arduino and Raspberry Pi platforms. My projects often involve robotics, automation testing, and server labs, where I explore innovative solutions and expand my technical knowledge.
 
 🚀 Some of My roles are in (reverse chronological order) and 💼 specialties:
 
-    Systems Security Administrator - SPRING
-    <ul>
-    <li>Endpoint security and threat mitigation</li>
+    Systems Security Administrator - SPRING:
+    Endpoint security and threat mitigation
     Network and firewall security management
     Active Directory and Group Policy administration
     Patching, upgrades management using WSUS, SCCM, intune, PDQ: Software Deployment & Inventory Management
