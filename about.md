@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://github.com/rodvial/blog/blob/main/_site/assets/ezgif-1-105bf6edd8.png" width="300" height="300"/>
+<img src="/blob/main/_site/assets/ezgif-1-105bf6edd8.png" width="300" height="300"/>
 
 👋 Hi, I'm Rod!
 
