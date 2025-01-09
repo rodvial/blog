@@ -103,10 +103,12 @@ Outside of work, I enjoy photography, coding, and gaming. I also dedicate time t
     FULL-STACK DEVELOPER, WEBSERVERS, DATABASES: WebLogic, GlassFish, Apache, NGINX, IIS, Tomcat, NodeJS, MySQL, Postgresql, MSSQL, Oracle DB
     Cybersecurity: Real-Time Monitoring, Data Security, Compliance, Threat Management
 
-🏆 My Awards:
+🏆 My Awards and Achievements:
 
-    Customer Centricity Award (Experian)
-    Promotion to Service Delivery Director / Senior Principal TAM (Oracle)
+    •	Promotion to Service Delivery Director / Senior Principal TAM - Oracle
+    •	Customer Centricity Award - Experian
+    •	Received a written commendation from American Express - SDM Vice President and ECC Director for exceptional performance in 2008. Key contributor to transforming the ECC into a proactive monitoring provider, achieving 400+ avoided service disruptions, 200+ proactive bridges, and managing nearly 500,000 alerts, filtering 50,000 for inefficiency. Supported 40 recommendations for availability and quality improvements. Recognized by senior executives, including the CEO and CIO, for dedication, innovative problem-solving, and overcoming skepticism to establish a successful operational model, laying a solid foundation for future initiatives.
+    
 
 📫 Connect with me:
 
